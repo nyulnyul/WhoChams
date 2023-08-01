@@ -21,6 +21,7 @@ public class LoginForm extends JFrame implements ActionListener {
 	private JPasswordField tfPw;
 	private JButton btnJoin;
 	private JButton btnLogin;
+	private  JButton btnFind;
 	private JPanel c;
 	private String s;
 	private Color b;
