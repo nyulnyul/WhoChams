@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import static DB.DB.conn;
-
+fvfgfg
 public class LoginForm extends JFrame implements ActionListener {
 	// 전역변수 선언
 	private JLabel lblId;
